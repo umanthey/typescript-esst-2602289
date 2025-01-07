@@ -1,7 +1,7 @@
 const name = "Superbattery";
 let power = 99;
 
-// hallo
+// hallo //
 
 export default {
   name,
